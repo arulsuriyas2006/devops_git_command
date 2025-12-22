@@ -1,0 +1,549 @@
+<form>
+        <center>
+    <h1>1. In what year did the Great October Socialist Revolution take place?
+</h1>
+    
+          <input type="radio" id=" 1917" name="fav_language" value="1917">
+          <label for=" 1917">  1917</label>
+          <input type="radio" id="1923" name="fav_language" value="1923">
+          <label for="1923">1923</label><br><br>
+          <input type="radio" id=" 1914" name="fav_language" value=" 1914">
+          <label for=" 1914">1914</label>
+          <input type="radio" id=" 1920" name="fav_language" value="1920">
+          <label for=" 1920"> 1920</label><br>
+</center>
+</form>
+
+
+<form>
+        <center>
+    <h1>2. What is the largest lake in the world?
+</h1>
+    
+          <input type="radio" id=" Caspian Sea" name="fav_language" value=" Caspian Sea">
+          <label for="  Caspian Sea">  Caspian Sea</label>
+          <input type="radio" id=" Baikal" name="fav_language" value=" Baikal">
+          <label for=" Baikal"> Baikal</label><br><br>
+          <input type="radio" id="  Lake Superior" name="fav_language" value=" Lake Superior">
+          <label for=" Lake Superior"> Lake Superior</label>
+          <input type="radio" id=" Ontario" name="fav_language" value=" Ontario">
+          <label for="  Ontario"> Ontario</label><br>
+</center>
+</form>
+
+<form>
+        <center>
+    <h1>3. Which planet in the solar system is known as the “Red Planet”?
+
+</h1>
+    
+          <input type="radio" id="  Venus" name="fav_language" value=" Venus">
+          <label for=" Venus">  Venus</label>
+          <input type="radio" id="Earth" name="fav_language" value="Earth">
+          <label for="Earth">Earth</label><br><br>
+          <input type="radio" id=" Mars" name="fav_language" value=" Mars">
+          <label for=" Mars"> Mars</label>
+          <input type="radio" id="Jupiter" name="fav_language" value="Jupiter">
+          <label for=" Jupiter">Jupiter</label><br>
+</center>
+</form>
+
+<form>
+        <center>
+    <h1>4. Who wrote the novel “War and Peace”?
+
+</h1>
+    
+          <input type="radio" id=" Anton Chekhov" name="fav_language" value=" Anton Chekhov">
+          <label for=" Anton Chekhov">   Anton Chekhov</label>
+          <input type="radio" id=" Fyodor Dostoevsky" name="fav_language" value=" Fyodor Dostoevsky">
+          <label for=" Fyodor Dostoevsky"> Fyodor Dostoevsky</label><br><br>
+          <input type="radio" id="Leo Tolstoy" name="fav_language" value=" Leo Tolstoy">
+          <label for="Leo Tolstoy">Leo Tolstoy</label>
+          <input type="radio" id="Ivan Turgenev" name="fav_language" value="Ivan Turgenev">
+          <label for=" Ivan Turgenev">Ivan Turgenev</label><br>
+</center>
+</form>
+
+<form>
+        <center>
+    <h1>5. What is the capital of Japan?
+</h1>
+    
+          <input type="radio" id="Beijing" name="fav_language" value="Beijing">
+          <label for="Beijing">  Beijing</label>
+          <input type="radio" id="Tokyo" name="fav_language" value="Tokyo">
+          <label for="Tokyo"> Tokyo</label><br><br>
+          <input type="radio" id=" Seoul" name="fav_language" value="Seoul">
+          <label for="Seoul">Seoul</label>
+          <input type="radio" id="  Bangkok" name="fav_language" value=" Bangkok">
+          <label for=" Bangkok">  Bangkok</label><br>
+</center>
+</form>
+
+<form>
+        <center>
+    <h1>6. Which river is the longest in the world?
+</h1>
+    
+          <input type="radio" id="  Amazon" name="fav_language" value=" Amazon">
+          <label for="  Amazon"> Amazon</label>
+          <input type="radio" id=" Mississippi" name="fav_language" value=" Mississippi">
+          <label for=" Mississippi"> Mississippi</label><br><br>
+          <input type="radio" id="Nile" name="fav_language" value=" Nile">
+          <label for=" Nile">Nile</label>
+          <input type="radio" id="  Yangtze" name="fav_language" value=" Yangtze">
+          <label for=" Yangtze"> Yangtze</label><br>
+</center>
+</form>
+
+
+<form>
+        <center>
+    <h1>7. What gas is used to extinguish fires?
+</h1>
+    
+          <input type="radio" id="Oxygen" name="fav_language" value="Oxygen">
+          <label for="Oxygen"> Oxygen</label>
+          <input type="radio" id=" Nitrogen" name="fav_language" value=" Nitrogen">
+          <label for=" Nitrogen"> Nitrogen</label><br><br>
+          <input type="radio" id="Carbon dioxide" name="fav_language" value="Carbon dioxide">
+          <label for=" Carbon dioxide">Carbon dioxide</label>
+          <input type="radio" id="  Hydrogen" name="fav_language" value=" Hydrogen">
+          <label for=" Hydrogen"> Hydrogen</label><br>
+</center>
+</form>
+
+
+<form>
+        <center>
+    <h1>8. What animal is the national symbol of Australia?
+</h1>
+    
+          <input type="radio" id="Kangaroo" name="fav_language" value="Kangaroo">
+          <label for="Kangaroo"> Kangaroo</label>
+          <input type="radio" id="Koala" name="fav_language" value="Koala">
+          <label for="Koala">Koala</label><br><br>
+          <input type="radio" id=" Emu" name="fav_language" value="Emu">
+          <label for=" Emu">Emu</label>
+          <input type="radio" id=" Crocodile " name="fav_language" value=" Crocodile">
+          <label for=" Crocodile">  Crocodile</label><br>
+</center>
+</form>
+
+<form>
+        <center>
+    <h1>
+9. Which of the following planets is not a gas giant?
+
+</h1>
+    
+          <input type="radio" id= Mars" name="fav_language" value=" Mars">
+          <label for=" Mars">  Mars</label>
+          <input type="radio" id="Jupiter" name="fav_language" value="Jupiter">
+          <label for="Jupiter">Jupiter</label><br><br>
+          <input type="radio" id="  Saturn" name="fav_language" value=" Saturn">
+          <label for=" Saturn"> Saturn</label>
+          <input type="radio" id=" Uranus " name="fav_language" value=" Uranus">
+          <label for=" Uranus">  Uranus</label><br>
+</center>
+</form>
+
+<form>
+        <center>
+   
+<h1>10. What is the name of the process by which plants convert sunlight into energy?
+</h1>
+    
+          <input type="radio" id= Respiration" name="fav_language" value="Respiration">
+          <label for="Respiration">  Respiration</label>
+          <input type="radio" id=" Photosynthesis" name="fav_language" value=" Photosynthesis">
+          <label for=" Photosynthesis" Photosynthesis</label><br><br>
+          <input type="radio" id=" Oxidation" name="fav_language" value="Oxidation">
+          <label for=" Oxidation"> Oxidation</label>
+          <input type="radio" id=" Evolution " name="fav_language" value="  Evolution">
+          <label for=" Evolution">  Evolution</label><br>
+</center>
+</form>
+
+
+<form>
+        <center>
+    <h1>
+11. What chemical element is designated as “Hg”?
+</h1>
+    
+          <input type="radio" id= Silver" name="fav_language" value=" Silver">
+          <label for="  Silver">   Silver</label>
+          <input type="radio" id=" Tin" name="fav_language" value=" Tin">
+          <label for=" Tin"> Tin</label><br><br>
+          <input type="radio" id="  Copper" name="fav_language" value="  Copper">
+          <label for="  Copper">   Copper</label>
+          <input type="radio" id=" Mercury " name="fav_language" value=" Mercury">
+          <label for="  Mercury">  Mercury</label><br>
+</center>
+</form>
+
+
+
+<form>
+        <center>
+    <h1>
+12. In what year was the first international modern Olympiad held?
+</h1>
+    
+          <input type="radio" id= 1896" name="fav_language" value="1896">
+          <label for="1896">  1896</label>
+          <input type="radio" id=" 1900" name="fav_language" value="  1900">
+          <label for=" 1900">  1900</label><br><br>
+          <input type="radio" id="1912" name="fav_language" value=" 1912">
+          <label for=" 1912"> 1912</label>
+          <input type="radio" id="   1924 " name="fav_language" value="  1924">
+          <label for="    1924">   1924</label><br>
+</center>
+</form>
+
+
+
+
+<form>
+        <center>
+    <h1>
+13. For which of these disciplines Nobel Prize is awarded?
+
+</h1>
+    
+          <input type="radio" id= Physics, Chemistry" name="fav_language" value="Physics, Chemistry">
+          <label for="Physics, Chemistry"> Physics, Chemistry</label>
+          <input type="radio" id="  Physiology" name="fav_language" value="  Physiology">
+          <label for="  Physiology">  Physiology</label><br><br>
+          <input type="radio" id=" Medicine" name="fav_language" value=" Medicine">
+          <label for="  Medicine">  Medicine</label>
+          <input type="radio" id="    All of the above " name="fav_language" value="    All of the above">
+          <label for="      All of the above">      All of the above</label><br>
+</center>
+</form>
+
+<form>
+        <center>
+    <h1>
+14. Entomology is the science that studies:
+</h1>
+    
+          <input type="radio" id=Behavior of human beings" name="fav_language" value="Behavior of human beings">
+          <label for="Behavior of human beings"> Behavior of human beings</label>
+          <input type="radio" id="Insects" name="fav_language" value="Insects">
+          <label for=" Insects"> Insects</label><br><br>
+          <input type="radio" id="  The origin and history of technical and scientific terms" name="fav_language" value="   The origin and history of technical and scientific terms">
+          <label for="  The origin and history of technical and scientific terms>  The origin and history of technical and scientific terms
+          <input type="radio" id="  The formation of rocks" name="fav_language" value="  The formation of rocks">
+          <label for="      The formation of rocks">    The formation of rocks</label><br>
+</center>
+</form>
+
+
+<form>
+        <center>
+    <h1>
+15. Hitler's party is known as:</h1>
+    
+          <input type="radio" id= Labour Party" name="fav_language" value=" Labour Party">
+          <label for=" Labour Party">  Labour Party</label>
+          <input type="radio" id="  Nazi Party" name="fav_language" value="   Nazi Party">
+          <label for=" Nazi Party">  Nazi Party</label><br><br>
+          <input type="radio" id="Ku-Klux-Klan" name="fav_language" value=" Ku-Klux-Klan">
+          <label for="Ku-Klux-Klan"> Ku-Klux-Klan</label>
+          <input type="radio" id="Democratic Party " name="fav_language" value="  Democratic Party">
+          <label for="   Democratic Party">   Democratic Party</label><br>
+</center>
+</form>
+
+
+
+
+<form>
+        <center>
+    <h1>
+16. For which Galileo is famous?
+
+</h1>
+    
+          <input type="radio" id= Developed the telescope" name="fav_language" value="Developed the telescope">
+          <label for="Developed the telescope"> Developed the telescope</label>
+          <input type="radio" id="  Discovered four satellites of Jupiter" name="fav_language" value="  Discovered four satellites of Jupiter">
+          <label for="  Discovered four satellites of Jupiter">  Discovered four satellites of Jupiter</label><br><br>
+          <input type="radio" id="Found that the swinging motion of the pendulum results in consistent time measurement." name="fav_language" value=" Found that the swinging motion of the pendulum results in consistent time measurement.">
+          <label for="Found that the swinging motion of the pendulum results in consistent time measurement."> Found that the swinging motion of the pendulum results in consistent time measurement.</label>
+          <input type="radio" id="    All of the above" name="fav_language" value="  All of the above">
+          <label for="   All of the above">  All of the above</label><br>
+</center>
+</form>
+
+
+
+<form>
+        <center>
+    <h1>
+17. When the First Afghan War took place in
+</h1>
+    
+          <input type="radio" id= 1839" name="fav_language" value="1839">
+          <label for="1839">  1839</label>
+          <input type="radio" id=" 1900" name="fav_language" value="  1900">
+          <label for=" 1900">  1900</label><br><br>
+          <input type="radio" id="1912" name="fav_language" value=" 1912">
+          <label for=" 1912"> 1912</label>
+          <input type="radio" id="   1924 " name="fav_language" value="  1924">
+          <label for="    1924">   1924</label><br>
+</center>
+</form>
+
+
+<form>
+        <center>
+    <h1>
+18. Ecology deals with
+</h1>
+    
+          <input type="radio" id=  Birds" name="fav_language" value=" Birds">
+          <label for=" Birds">  Birds</label>
+          <input type="radio" id="  Cell formation" name="fav_language" value="  Cell formation">
+          <label for="  Cell formation">   Cell formation</label><br><br>
+          <input type="radio" id="Relation between organisms and their environment" name="fav_language" value="Relation between organisms and their environment">
+          <label for=" Relation between organisms and their environment">Relation between organisms and their environment</label>
+          <input type="radio" id="     Tissues" name="fav_language" value="  Tissues">
+          <label for="    Tissues">   Tissues</label><br>
+</center>
+</form>
+
+
+<form>
+        <center>
+    <h1>
+19. Which is the largest island?
+</h1>
+    
+          <input type="radio" id=  New Guinea" name="fav_language" value=" New Guinea">
+          <label for=" New Guinea">  New Guinea</label>
+          <input type="radio" id=" Andaman Nicobar" name="fav_language" value=" Andaman Nicobar">
+          <label for="Andaman Nicobar">  Andaman Nicobar</label><br><br>
+          <input type="radio" id="  Greenland" name="fav_language" value="   Greenland">
+          <label for="  Greenland">   Greenland</label>
+          <input type="radio" id="    Hawaii " name="fav_language" value="  Hawaii">
+          <label for="   Hawaii">     Hawaii</label><br>
+</center>
+</form>
+
+<form>
+        <center>
+    <h1>
+20. Which one is the hottest continent?
+</h1>
+    
+          <input type="radio" id="Africa" name="fav_language" value="Africa">
+          <label for="Africa">  Africa</label>
+          <input type="radio" id=" South Asia" name="fav_language" value=" South Asia">
+          <label for="South Asia">  South Asia</label><br><br>
+          <input type="radio" id=" North America" name="fav_language" value=" North America">
+          <label for="  North America">  North America</label>
+          <input type="radio" id="  Australia " name="fav_language" value="  Australia">
+          <label for="  Australia">  Australia</label><br>
+</center>
+</form>
+
+
+<form>
+        <center>
+    <h1>
+1. Which is the richest country in the world?
+</h1>
+    
+          <input type="radio" id="  Qatar" name="fav_language" value="  Qatar">
+          <label for="  Qatar">   Qatar</label>
+          <input type="radio" id="   Russia" name="fav_language" value="   Russia">
+          <label for=  "Russia">   Russia</label><br><br>
+          <input type="radio" id=" The USA" name="fav_language" value=" The USA">
+          <label for=" The USA">  The USA</label>
+          <input type="radio" id=" The UAE" name="fav_language" value="  The UAE">
+          <label for="The UAE">The UAE</label><br>
+</center>
+</form>
+
+
+<form>
+        <center>
+    <h1>
+2. Which county is the biggest grower of coffee?
+
+</h1>
+    
+          <input type="radio" id=" Spain" name="fav_language" value=" Spain">
+          <label for="  Spain">  Spain</label>
+          <input type="radio" id=" India" name="fav_language" value="   India">
+          <label for=  " India">   India</label><br><br>
+          <input type="radio" id="   Ethiopia" name="fav_language" value="  Ethiopia">
+          <label for="  Ethiopia">    Ethiopia</label>
+          <input type="radio" id="  Brazil" name="fav_language" value="   Brazil">
+          <label for=" Brazil"> Brazil</label><br>
+</center>
+</form>
+
+
+<form>
+        <center>
+    <h1>
+3. How many bones are in the body of an adult human?
+
+</h1>
+    
+          <input type="radio" id="  330" name="fav_language" value="  330">
+          <label for="  330">   330</label>
+          <input type="radio" id=" 206" name="fav_language" value="   206">
+          <label for=  " 206">  206</label><br><br>
+          <input type="radio" id="   250" name="fav_language" value="  250">
+          <label for="  250">    250</label>
+          <input type="radio" id="  210" name="fav_language" value="    210">
+          <label for=" 210">  210</label><br>
+</center>
+</form>
+
+
+<form>
+        <center>
+    <h1>
+
+4. When the humans use more facial muscles?
+
+
+</h1>
+    
+          <input type="radio" id="  While smiling" name="fav_language" value="  While smiling">
+          <label for="  While smiling">    While smiling</label>
+          <input type="radio" id=" While frowning" name="fav_language" value="   While frowning">
+          <label for=  "  While frowning">   While frowning</label><br><br>
+          <input type="radio" id="    While sleeping" name="fav_language" value="    While sleeping">
+          <label for="     While sleeping">        While sleeping</label>
+          <input type="radio" id="  While talking" name="fav_language" value="  While talking">
+          <label for=" While talking">   While talking</label><br>
+</center>
+</form>
+
+
+
+<form>
+        <center>
+    <h1>
+5. Who wrote “Crime and Punishment”?
+</h1>
+    
+          <input type="radio" id="Leo Tolstoy" name="fav_language" value=" Leo Tolstoy">
+          <label for="  Leo Tolstoy">  Leo Tolstoy</label>
+          <input type="radio" id=" Fyodor Dostoevsky" name="fav_language" value="  Fyodor Dostoevsky">
+          <label for=  "  Fyodor Dostoevsky"> Fyodor Dostoevsky</label><br><br>
+          <input type="radio" id="       Anton Chekhov" name="fav_language" value="     Anton Chekhov">
+          <label for="      Anton Chekhov">      Anton Chekhov</label>
+          <input type="radio" id="Ivan Turgenev" name="fav_language" value=" Ivan Turgenev">
+          <label for=" Ivan Turgenev"> Ivan Turgenev</label><br>
+</center>
+</form>
+
+
+
+<form>
+        <center>
+    <h1>
+6. In what year was the United Nations (UN) founded?
+
+</h1>
+    
+          <input type="radio" id="  1945" name="fav_language" value=" 1945">
+          <label for="  1945">  1945</label>
+          <input type="radio" id=" 1919" name="fav_language" value="  1919">
+          <label for=  " 1919">  1919</label><br><br>
+          <input type="radio" id="   1956" name="fav_language" value=" 1956">
+          <label for="  1956">  1956</label>
+          <input type="radio" id=" 1961" name="fav_language" value="    1961">
+          <label for="1961"> 1961</label><br>
+</center>
+</form>
+
+
+
+
+
+<form>
+        <center>
+    <h1>
+7. Which city is called the “City of Winds”?
+
+</h1>
+    
+          <input type="radio" id=" Chicago" name="fav_language" value="Chicago">
+          <label for="  Chicago">  Chicago</label>
+          <input type="radio" id="  Seattle" name="fav_language" value="    Seattle">
+          <label for=  "  Seattle">   Seattle</label><br><br>
+          <input type="radio" id="  Washington" name="fav_language" value=" Washington">
+          <label for="   Washington">  Washington</label>
+          <input type="radio" id="  Veliky Novgorod" name="fav_language" value="   Veliky Novgorod">
+          <label for= "Veliky Novgorod"> Veliky Novgorod</label><br>
+</center>
+</form>
+
+
+
+
+<form>
+        <center>
+    <h1>
+8. What animal is a symbol of peace and neutrality?
+</h1>
+    
+          <input type="radio" id=" Polar bear" name="fav_language" value="Polar bear">
+          <label for="  Polar bear"> Polar bear</label>
+          <input type="radio" id=" White tiger" name="fav_language" value=" White tiger">
+          <label for=  " White tiger">  White tiger</label><br><br>
+          <input type="radio" id="   White lion" name="fav_language" value=" White lion">
+          <label for="   White lion">  White lion</label>
+          <input type="radio" id="     White crane" name="fav_language" value="       White crane">
+          <label for="    White crane">     White crane</label><br>
+</center>
+</form>
+
+<form>
+        <center>
+    <h1>
+9. What element is the main constituent of diamonds?
+</h1>
+    
+          <input type="radio" id="Carbon" name="fav_language" value="Carbon">
+          <label for=" Carbon">  Carbon</label>
+          <input type="radio" id=" Oxygen" name="fav_language" value="  Oxygen">
+          <label for=  "  Oxygen">   Oxygen</label><br><br>
+          <input type="radio" id="    Silver" name="fav_language" value="  Silver">
+          <label for="  Silver">   Silver</label>
+          <input type="radio" id=" Gold" name="fav_language" value="   Gold">
+          <label for=" Gold">  Gold</label><br>
+</center>
+</form>
+
+
+
+
+<form>
+        <center>
+    <h1>
+10.In what year was Ferdinand Magellan's first successful circumnavigation of the world?
+
+</h1>
+    
+          <input type="radio" id=" 1492" name="fav_language" value= "1492">
+          <label for=" 1492">  1492</label>
+          <input type="radio" id="  1520" name="fav_language" value="   1520">
+          <label for=  "  1520">    1520</label><br><br>
+          <input type="radio" id="   1588" name="fav_language" value="  1588">
+          <label for=" 1588">    1588</label>
+          <input type="radio" id="  1620" name="fav_language" value="   1620">
+          <label for=" 1620">  1620</label><br>
+</center>
+</form>
+
